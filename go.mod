@@ -10,7 +10,7 @@ require (
 	github.com/kyma-project/module-manager v0.0.0-20230203122329-275f0c18b284
 	github.com/kyma-project/runtime-watcher/listener v0.0.0-20230131092109-31657012720d
 	github.com/onsi/ginkgo/v2 v2.8.0
-	github.com/onsi/gomega v1.25.0
+	github.com/onsi/gomega v1.26.0
 	github.com/stretchr/testify v1.8.1
 	go.uber.org/zap v1.24.0
 	golang.org/x/sync v0.1.0
