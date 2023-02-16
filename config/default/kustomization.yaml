@@ -1,4 +1,5 @@
 # Adds namespace to all resources.
+# Another dummy
 namespace: kcp-system
 
 # Value of this field is prepended to the
