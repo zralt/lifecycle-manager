@@ -2,6 +2,7 @@
 # It is meant to be used in conjunction with a control-plane deployment only and has prerequisites that
 # need to be explicitly created externally in a centrally managed place (e.g. the kcp-system).
 # In fact, in order to avoid conflicts, it even explicitly patches out certain configuration elements.
+# dummy
 apiVersion: kustomize.config.k8s.io/v1beta1
 kind: Kustomization
 
